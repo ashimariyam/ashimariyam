@@ -9,7 +9,10 @@
 
 - 📫 How to reach me **ashimariamthomas@gmail.com or ashnimariyamt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JPXRW8lz7O06L8LfAUqgYfqbeufheVSk/view?usp=sharing](https://drive.google.com/file/d/1JPXRW8lz7O06L8LfAUqgYfqbeufheVSk/view?usp=sharing)
+- 📄 Know about my experiences :
+    <a href="https://drive.google.com/file/d/1JPXRW8lz7O06L8LfAUqgYfqbeufheVSk/view?usp=sharing" target="_blank">Know more</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
